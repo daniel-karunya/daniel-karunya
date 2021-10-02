@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daniel-karunya
+- 👀 I’m interested in cyber secrity
+- 🌱 I’m currently learning Compuer Science @ karunya
